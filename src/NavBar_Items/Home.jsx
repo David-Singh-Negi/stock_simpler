@@ -68,7 +68,7 @@ const Home = () => {
               <img
                 className="lg:h-[400px]   rounded-2xl"
                 src={img4}
-                alt="mysterylogo2"
+                alt="mysterylogo1"
               />
 
               <img
@@ -86,7 +86,7 @@ const Home = () => {
               <img
                 className="lg:h-[400px]   rounded-2xl"
                 src={img7}
-                alt="mysterylogo3"
+                alt="mysterylogo4"
               />
             
             
